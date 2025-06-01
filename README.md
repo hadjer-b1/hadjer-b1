@@ -58,8 +58,8 @@ A Statistician with a master's degree, passionate about building intelligent sys
 ---
 
 ### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/hadjer-b1/hadjer-b1/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/hadjer-b1/hadjer-b1/blob/output/github-contribution-grid-snake.gif)
+<!--img src="https://raw.githubusercontent.com/hadjer-b1/hadjer-b1/output/snake.svg" alt="Snake animation"-- />
 
 ---
 
