@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hadjer and I'm a Data Scientist, AI enthusiast, and web developer 🇩🇿</h2>
+<h2 align="left">Hi 👋! My name is Hadjer and I'm a Data Scientist, AI enthusiast, and web developer 👩‍💻</h2>
 
 ###
 
@@ -10,13 +10,6 @@
 </div>
 
 ---
-
-### 👩‍💻 About Me
-
-A Statistician with a master's degree, passionate about building intelligent systems, designing secure web applications, and extracting meaning from data. I enjoy combining statistical modeling with modern AI techniques, and I'm currently developing a prototype for an AI-powered data pipeline in the insurance sector.
-
----
-
 ### 🌱 Currently Learning
 
 - Advanced Deep Learning (transformers, attention)
