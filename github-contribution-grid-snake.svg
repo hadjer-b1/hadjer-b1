@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 624 84" width="624" height="84" role="img" aria-label="Contribution grid with snake">
+  <title>GitHub contribution grid snake</title>
+  <desc>Static contribution-grid-like background with a snake path overlay. This replaces the placeholder text file.
+  The grid is rendered using a tiling pattern and the snake is a series of rounded rectangles positioned on cells.</desc>
+  <defs>
+    <pattern id="cell" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#ebedf0" rx="2"/>
+    </pattern>
+  </defs>
+
+  <!-- background grid (52 columns x 7 rows using the pattern) -->
+  <rect width="624" height="84" fill="url(#cell)"/>
+
+  <!-- Optional faint grid lines to make the cells clearer -->
+  <g stroke="#ffffff00" stroke-width="0.8"></g>
+
+  <!-- Snake segments (rounded squares positioned on top of the grid) -->
+  <!-- Each cell is 12x12, cell content (square) is 10x10 and we position the snake in those cells -->
+  <g fill="#161b22">
+    <rect x="12"  y="36" width="10" height="10" rx="2"/>
+    <rect x="24"  y="36" width="10" height="10" rx="2"/>
+    <rect x="36"  y="36" width="10" height="10" rx="2"/>
+    <rect x="48"  y="36" width="10" height="10" rx="2"/>
+    <rect x="60"  y="36" width="10" height="10" rx="2"/>
+    <rect x="72"  y="36" width="10" height="10" rx="2"/>
+    <rect x="84"  y="24" width="10" height="10" rx="2"/>
+    <rect x="96"  y="24" width="10" height="10" rx="2"/>
+    <rect x="108" y="24" width="10" height="10" rx="2"/>
+    <rect x="120" y="24" width="10" height="10" rx="2"/>
+    <rect x="132" y="24" width="10" height="10" rx="2"/>
+    <rect x="144" y="36" width="10" height="10" rx="2"/>
+    <rect x="156" y="48" width="10" height="10" rx="2"/>
+    <rect x="168" y="48" width="10" height="10" rx="2"/>
+    <rect x="180" y="48" width="10" height="10" rx="2"/>
+    <rect x="192" y="48" width="10" height="10" rx="2"/>
+    <rect x="204" y="48" width="10" height="10" rx="2"/>
+    <rect x="216" y="36" width="10" height="10" rx="2"/>
+    <rect x="228" y="24" width="10" height="10" rx="2"/>
+    <rect x="240" y="12" width="10" height="10" rx="2"/>
+    <rect x="252" y="12" width="10" height="10" rx="2"/>
+    <rect x="264" y="12" width="10" height="10" rx="2"/>
+    <rect x="276" y="24" width="10" height="10" rx="2"/>
+    <rect x="288" y="36" width="10" height="10" rx="2"/>
+    <rect x="300" y="36" width="10" height="10" rx="2"/>
+    <rect x="312" y="36" width="10" height="10" rx="2"/>
+    <rect x="324" y="36" width="10" height="10" rx="2"/>
+    <rect x="336" y="36" width="10" height="10" rx="2"/>
+    <rect x="348" y="36" width="10" height="10" rx="2"/>
+  </g>
+
+  <!-- Accessibility: a small caption displayed if SVG is shown standalone -->
+  <rect x="0" y="0" width="0" height="0" fill="none" aria-hidden="true"/>
+</svg>
