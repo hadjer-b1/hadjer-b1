@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Hadjer and I'm a Data Scientist, AI enthusiast, and web developer 👩‍💻</h2>
+<h2 align="left">Hi 👋! I'm Hadjer </h2>
+<p>
+<strong align="center">Data Scientist • AI Engineer • Full-Stack Developer</strong>
+</p>
+
+---
 
 ###
 
@@ -10,15 +15,19 @@
 </div>
 
 ---
-### 🌱 Currently Learning
-
-- Advanced Deep Learning (transformers, attention)
-- Explainable AI & model transparency
-- AI for data validation & cleaning
-- REST APIs & backend integration
+### 🧠 Current Focus
+- Deep Learning & Transformer Architectures  
+- Explainable AI & Model Transparency  
+- Data Pipelines & Automation  
+- Backend Systems & APIs
+  
+---
+### 🚀 What I’m Building
+- AI-powered tools and assistants  
+- Data-driven web applications  
+- End-to-end intelligent systems  
 
 ---
-
 ### 🛠️ Tech Stack
 
 <div align="left">
@@ -41,18 +50,26 @@
 
 ### 🔗 Let's Connect
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/hadjer-blb/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <!-- Add more social badges if you want -->
+  
+  <a href="mailto:hadjerbelahbib3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://hadjer-portfolio.pages.dev/">
+   <img src="https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </div>
 
 ---
+### 🔥 GitHub Streak
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/hadjer-b1/hadjer-b1/blob/output/github-contribution-grid-snake.gif)
-<!--img src="https://raw.githubusercontent.com/hadjer-b1/hadjer-b1/output/snake.svg" alt="Snake animation"-- />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hadjer-b1&theme=dracula&hide_border=true" />
+</p>
 
 ---
 
